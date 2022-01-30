@@ -1,0 +1,35 @@
+header{
+    background-image: linear-gradient(#04091eb3,#04091eb3),url(../IMG/fond_accueil_header.png);
+    background-position: center;
+    background-size: cover;
+    position: relative; 
+}
+
+/*BODY*/
+body{
+    margin:0;
+}
+
+/*MAIN*/
+
+main h1{
+    text-align: center;
+}
+
+main section ul{
+   list-style: square;
+   margin-top: 0.75em;
+}
+
+main section ul li{
+    color: #777;
+}
+
+main section {
+  display:block;
+  margin: 3% 11%;
+  font-size: 1.2rem;
+}
+
+
+
